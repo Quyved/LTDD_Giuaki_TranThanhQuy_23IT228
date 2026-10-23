@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644869444456",
+    "project_id": "campus-room-c93f6",
+    "storage_bucket": "campus-room-c93f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644869444456:android:bb6ae1f4bb9cc507b47cdd",
+        "android_client_info": {
+          "package_name": "com.example.lab8auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdk5AO4dyAV8bxEwVfWDbIgJROmz8UqL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644869444456:android:bb6ae1f4bb9cc507b47cdd",
+        "android_client_info": {
+          "package_name": "com.example.ecomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdk5AO4dyAV8bxEwVfWDbIgJROmz8UqL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,70 @@
+﻿{
+    "duAn":  "ECOMER",
+    "coSoDuLieu":  "Cloud Firestore",
+    "bangSanPham_Products":  {
+                                 "moTa":  "Dữ liệu sản phẩm",
+                                 "cacTruong":  [
+                                                   "tenSanPham",
+                                                   "loaiSanPham",
+                                                   "gia",
+                                                   "image"
+                                               ],
+                                 "danhSachSanPham":  [
+                                                         {
+                                                             "image":  "[BASE64_JPEG_IMAGE_DATA]",
+                                                             "gia":  "200000",
+                                                             "id":  "02wTiDgmPy6CQQ3RACrn",
+                                                             "loaiSanPham":  "Quan nam",
+                                                             "tenSanPham":  "quan zin nam"
+                                                         },
+                                                         {
+                                                             "image":  "[BASE64_JPEG_IMAGE_DATA]",
+                                                             "gia":  "300000",
+                                                             "id":  "B7bWqSsjLKAoaXHtcDj0",
+                                                             "loaiSanPham":  "Thoi trang nam",
+                                                             "tenSanPham":  "Ao phong nam"
+                                                         },
+                                                         {
+                                                             "image":  "[BASE64_JPEG_IMAGE_DATA]",
+                                                             "gia":  "250000",
+                                                             "id":  "ZukxtmxRwwB527UY8Xdb",
+                                                             "loaiSanPham":  "Thoi trang nu",
+                                                             "tenSanPham":  "Vay hoa vintage"
+                                                         },
+                                                         {
+                                                             "image":  "[BASE64_JPEG_IMAGE_DATA]",
+                                                             "gia":  "280000",
+                                                             "id":  "dz042dueEcVnDE7Eluxm",
+                                                             "loaiSanPham":  "Thoi trang nam",
+                                                             "tenSanPham":  "Ao so mi oxford"
+                                                         },
+                                                         {
+                                                             "image":  "[BASE64_JPEG_IMAGE_DATA]",
+                                                             "gia":  "450000",
+                                                             "id":  "qlK3lUDhl0TUNXQMpPlE",
+                                                             "loaiSanPham":  "Giay dep",
+                                                             "tenSanPham":  "Giay sneaker trang"
+                                                         }
+                                                     ]
+                             },
+    "bangNguoiDung_Users":  {
+                                "moTa":  "Phân quyền người dùng",
+                                "cacTruong":  [
+                                                  "uid",
+                                                  "email",
+                                                  "role"
+                                              ],
+                                "danhSachNguoiDung":  [
+                                                          {
+                                                              "email":  "admin@ecomer.com",
+                                                              "uid":  "wnpE4FTgTPPf5v0q6BxcC956NCj2",
+                                                              "role":  "admin"
+                                                          },
+                                                          {
+                                                              "email":  "user@ecomer.com",
+                                                              "uid":  "livEDojWpDRjPCgvRMUvaethl5J2",
+                                                              "role":  "user"
+                                                          }
+                                                      ]
+                            }
+}
